@@ -4,8 +4,9 @@
 # Referencias
 
 ## GITHUB Student Pack 
-* https://education.github.com/pack
-* 
+- https://education.github.com/pack
+- DATACAMP 3 meses gratis > https://www.datacamp.com/
+- 
 ## Download
 - ANACONDA https://www.anaconda.com/
 
